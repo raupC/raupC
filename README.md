@@ -34,14 +34,16 @@ I’m currently studying **software engineer** in Finland and improving my skill
 ---
 
 ### foodapp
-**Language:** Dart  
+**Language:** Dart
+**Framework:** Flutter
 **Description:** A mobile app developed in Dart for managing recipes, shopping lists, and food preferences.  
 [GitHub Link](https://github.com/raulPc/foodapp)
 
 ---
 
 ### DO_WE_KNOW_EACH_OTHER
-**Language:** c#  
+**Language:** c# 
+**Framework** Unity
 **Description:** A Dart project that tests how well friends know each other with quizzes and interactive features.  
 [GitHub Link](https://github.com/raulpC/DO_WE_KNOW_EACH_OTHER)
 
@@ -55,7 +57,8 @@ I’m currently studying **software engineer** in Finland and improving my skill
 ---
 
 ### SkyBoundLava
-**Language:** C#  
+**Language:** C#
+**Framework:** Unity
 **Description:** A 3D side-scrolling platformer developed in Unity. You control a playful character who jumps across floating islands to avoid falling.  
 [GitHub Link](https://github.com/raulpC/SkyBoundLava)
 
@@ -68,7 +71,7 @@ I’m currently studying **software engineer** in Finland and improving my skill
 
 ## ✉️ Contact
 
-- GitHub:  
-- LinkedIn: [Your LinkedIn link]  
-- Email: your.email@example.com
+- GitHub: [raulpC](https://github.com/raupC) 
+- LinkedIn: [raulpC](https://github.com/raupC)
+- Email: [softulike@gmail.com]([url](https://www.linkedin.com/inra%C3%BAl-pineda-caballero-a746b0340/))
 
