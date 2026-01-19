@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Raul Pineda
 
-I’m a **Unity, C# developer, Java**  
+I’m a **Unity, C# developer, Java** specially developing across-platform aplications 
 I’m currently studying **software engineer** in Finland and improving my skills in **game development, programming, mathematics and AI**.
 
 ---
@@ -72,6 +72,6 @@ I’m currently studying **software engineer** in Finland and improving my skill
 ## ✉️ Contact
 
 - GitHub: [raulpC](https://github.com/raupC) 
-- LinkedIn: [raulpC](https://github.com/raupC)
+- LinkedIn: [raulpC](https://[github.com/raupC](https://www.linkedin.com/in/ra%C3%BAl-pineda-caballero-a746b0340/))
 - Email: [softulike@gmail.com]([url](https://www.linkedin.com/inra%C3%BAl-pineda-caballero-a746b0340/))
 
