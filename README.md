@@ -16,6 +16,11 @@ I’m currently studying **software engineer** in Finland and improving my skill
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Flutter](https://img.shields.io/badge/FLUTTER-02569B?style=for-the-badge&logo=flutter&labelColor=black)
+![Android](https://img.shields.io/badge/ANDROID%20STUDIO-3DDC84?style=for-the-badge&logo=android%20studio&labelColor=blue)
+![Nodejs](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=node.js&labelColor=white)
+![Linux](https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=LINUX&logoColor=black&labelColor=white)
+![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&labelColor=white)
 - **Unity Engine**: 2D/3D games, prefabs, scenes, physics, UI
 - **Programming**: C#, Python basics, algorithms, OOP
 - **Version Control**: Git, GitHub
