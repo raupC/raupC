@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Raul Pineda
 
-I’m a **Unity & C# developer**, passionate about creating 2D and 3D games.  
-I’m currently studying **science in English** in Finland and improving my skills in **game development, programming, and AI**.
+I’m a **Unity, C# developer, Java**  
+I’m currently studying **software engineer** in Finland and improving my skills in **game development, programming, mathematics and AI**.
 
 ---
 
