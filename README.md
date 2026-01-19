@@ -26,7 +26,45 @@ I’m currently studying **software engineer** in Finland and improving my skill
 ---
 
 ## 🎮 Projects
+### ElectionSimulator
+**Language:** Java  
+**Description:** A Java project simulating elections with different candidates and voting mechanisms.  
+[GitHub Link](https://github.com/raulpC/ElectionSimulator)
 
+---
+
+### foodapp
+**Language:** Dart  
+**Description:** A mobile app developed in Dart for managing recipes, shopping lists, and food preferences.  
+[GitHub Link](https://github.com/raulPc/foodapp)
+
+---
+
+### DO_WE_KNOW_EACH_OTHER
+**Language:** Dart  
+**Description:** A Dart project that tests how well friends know each other with quizzes and interactive features.  
+[GitHub Link](https://github.com/raulpC/DO_WE_KNOW_EACH_OTHER)
+
+---
+
+### F1Simulator
+**Language:** Java  
+**Description:** A Java racing simulation game with configurable cars, tracks, and race logic.  
+[GitHub Link](https://github.com/raulpC/F1Simulator)
+
+---
+
+### SkyBoundLava
+**Language:** Java  
+**Description:** A challenging platformer built in Java where the player must avoid rising lava and obstacles.  
+[GitHub Link](https://github.com/raulpC/SkyBoundLava)
+
+---
+
+### Jump Island
+**Language:** Unity (C# & ShaderLab)  
+**Description:** A 3D side-scrolling platformer developed in Unity. You control a playful character who jumps across floating islands to avoid falling.  
+[GitHub Link](https://github.com/raulpC/Jump-Island)
 
 ---
 
