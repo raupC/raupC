@@ -21,6 +21,7 @@ I’m currently studying **software engineer** in Finland and improving my skill
 ![Nodejs](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=node.js&labelColor=white)
 ![Linux](https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=LINUX&logoColor=black&labelColor=white)
 ![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&labelColor=white)
+![MySql](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&labelColor=white)
 - **Unity Engine**: 2D/3D games, prefabs, scenes, physics, UI
 - **Programming**: C#, Python basics, algorithms, OOP
 - **Version Control**: Git, GitHub
