@@ -6,12 +6,6 @@ I’m currently studying **software engineer** in Finland and improving my skill
 ---
 
 ## 💻 Skills
-
-- **Unity Engine**: 2D/3D games, prefabs, scenes, physics, UI
-- **Programming**: C#, Python basics, algorithms, OOP
-- **Version Control**: Git, GitHub
-- **Game Design**: Level design, mechanics, UI/UX
-- **Other Tools**: Visual Studio, Bitwig, Android Studio
 ![C](https://img.shields.io/badge/-C-blue?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -22,6 +16,12 @@ I’m currently studying **software engineer** in Finland and improving my skill
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+- **Unity Engine**: 2D/3D games, prefabs, scenes, physics, UI
+- **Programming**: C#, Python basics, algorithms, OOP
+- **Version Control**: Git, GitHub
+- **Game Design**: Level design, mechanics, UI/UX
+- **Other Tools**: Visual Studio, Bitwig, Android Studio
+
 
 ---
 
